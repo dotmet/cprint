@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 __version__ = "0.0.1"
 
 setup(
-    name="cprint",
+    name="ecprint",
     version=__version__,
     author="Even Wong",
     author_email="wdyphy@zju.edu.cn",

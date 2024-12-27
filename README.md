@@ -1,5 +1,5 @@
-# cprint
-A print function generates colorful outputs for python 
+# ecprint
+A print function generates colorful outputs easily for python 
 
 Install
 ```bash

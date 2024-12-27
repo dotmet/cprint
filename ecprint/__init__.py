@@ -1,1 +1,1 @@
-from .cprint import cprint
+from .ecprint import cprint

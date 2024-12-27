@@ -3,7 +3,7 @@ A print function generates colorful outputs for python
 
 Install
 ```bash
-pip install cprint
+pip install ecprint
 ```
 
 example usage

@@ -12,4 +12,3 @@ from ecprint import cprint
 
 cprint('hello', 'world', color='green', back_color='black', style='underline', end='!\n')
 ```
-\033[1;31mred\033[0m

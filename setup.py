@@ -8,7 +8,7 @@ setup(
     author="Even Wong",
     author_email="wdyphy@zju.edu.cn",
     url="https://github.com/dotmet/cprint.git",
-    description="A easy module for colorful print in Python.",
+    description="An easy module for colorful print in Python.",
     long_description="",
     packages = find_packages(),
     zip_safe=False,
